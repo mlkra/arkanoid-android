@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">l5z1</string>
+    <string name="new_game">New Game</string>
+    <string name="error_no_sensor">Buy newer phone!!!!</string>
+    <string name="won">You won!</string>
+    <string name="lost">You lost!</string>
+    <string name="balls_left">balls left</string>
+    <string name="ball_left">ball left</string>
+</resources>
